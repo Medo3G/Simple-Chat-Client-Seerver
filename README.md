@@ -40,4 +40,5 @@ client.
   - A user connects.
   - A user chooses a username.
   - A user disconnects.  
+  
 ![](imgs/img16.png)
