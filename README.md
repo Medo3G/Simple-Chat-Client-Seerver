@@ -43,4 +43,4 @@ client.
   
 ![](imgs/img16.png)
 ***
-Done as a part of Digital System Design course.
+Done as a part of Introduction to Communication Networks course.
